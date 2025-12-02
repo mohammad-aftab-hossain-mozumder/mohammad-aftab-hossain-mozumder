@@ -39,7 +39,6 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 ---
 
 ## 📊 GitHub Stats
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-aftab-hossain-mozumder&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
 <p>
 
 
@@ -48,30 +47,6 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Mohammad Aftab Hossain Mozumder</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-aftab-hossain-mozumder&style=for-the-badge&color=blue" alt="Mohammad Aftab Hossain Mozumder's Profile Views" />
-</p>
-
-<div align="center">
-  
-  [![Mohammad Aftab Hossain Mozumder's GitHub Stats](https://github-readme-stats.deno.dev/api?username=mohammad-aftab-hossain-mozumder&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true)](https://github.com/mohammad-aftab-hossain-mozumder)
-  
-  [![Top Languages](https://github-readme-stats.deno.dev/api/top-langs/?username=mohammad-aftab-hossain-mozumder&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/mohammad-aftab-hossain-mozumder)
-  
-</div>
-
-<br>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mohammad-aftab-hossain-mozumder&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-  
-</div>
 
 
 
