@@ -8,7 +8,7 @@
   <h2>💻 MERN Stack Web Developer</h2>
   <h3>🚀 Transforming complex ideas into clean, functional, and user-friendly web experiences</h3>
 </div>
----
+
 
 ## 👨‍💻 About Me  
 I'm a passionate MERN Stack Web Developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
