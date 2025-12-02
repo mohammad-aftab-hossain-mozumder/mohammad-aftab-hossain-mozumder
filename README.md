@@ -39,14 +39,48 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 ---
 
 ## 📊 GitHub Stats
-[![Mohammad Aftab Hossain Mozumder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-aftab-hossain-mozumder&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/mohammad-aftab-hossain-mozumder)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-aftab-hossain-mozumder&layout=compact&theme=radical&hide_border=true)](https://github.com/mohammad-aftab-hossain-mozumder)
+
 <p>
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-aftab-hossain-mozumder&theme=tokyonight" />
 
 </p>
+
+
+<h1 align="center">Hi 👋, I'm Mohammad Aftab Hossain Mozumder</h1>
+<h3 align="center">A passionate developer from Bangladesh</h3>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammad-aftab-hossain-mozumder&style=for-the-badge&color=blue" alt="Mohammad Aftab Hossain Mozumder's Profile Views" />
+</p>
+
+<div align="center">
+  
+  [![Mohammad Aftab Hossain Mozumder's GitHub Stats](https://github-readme-stats.deno.dev/api?username=mohammad-aftab-hossain-mozumder&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true)](https://github.com/mohammad-aftab-hossain-mozumder)
+  
+  [![Top Languages](https://github-readme-stats.deno.dev/api/top-langs/?username=mohammad-aftab-hossain-mozumder&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/mohammad-aftab-hossain-mozumder)
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mohammad-aftab-hossain-mozumder&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
+
+---
+
+### 💡 পরিবর্তন লক্ষ্য করুন:
+
+* **URL পরিবর্তন:** আপনার স্ট্যাটস এবং ল্যাঙ্গুয়েজ কার্ডের জন্য আমি **`github-readme-stats.deno.dev/api`** ব্যবহার করেছি। এটি সাধারণত স্থিতিশীল থাকে।
+* **থিম পরিবর্তন:** আমি থিম হিসেবে **`midnight-purple`** ব্যবহার করেছি, যা দেখতে বেশ আকর্ষণীয়। আপনি চাইলে এটি **`dark`**, **`radical`**, বা **`tokyonight`** দিয়ে পরিবর্তন করতে পারেন।
+
+এই কোডটি ব্যবহার করে দেখুন। আশা করি আপনার কার্ডগুলি এবার সঠিকভাবে লোড হবে।
 
 
 
