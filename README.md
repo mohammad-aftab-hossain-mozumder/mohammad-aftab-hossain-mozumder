@@ -39,7 +39,7 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 ---
 
 ## 📊 GitHub Stats
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-aftab-hossain-mozumder&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
 <p>
 
 
@@ -72,15 +72,6 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
   [![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mohammad-aftab-hossain-mozumder&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
   
 </div>
-
----
-
-### 💡 পরিবর্তন লক্ষ্য করুন:
-
-* **URL পরিবর্তন:** আপনার স্ট্যাটস এবং ল্যাঙ্গুয়েজ কার্ডের জন্য আমি **`github-readme-stats.deno.dev/api`** ব্যবহার করেছি। এটি সাধারণত স্থিতিশীল থাকে।
-* **থিম পরিবর্তন:** আমি থিম হিসেবে **`midnight-purple`** ব্যবহার করেছি, যা দেখতে বেশ আকর্ষণীয়। আপনি চাইলে এটি **`dark`**, **`radical`**, বা **`tokyonight`** দিয়ে পরিবর্তন করতে পারেন।
-
-এই কোডটি ব্যবহার করে দেখুন। আশা করি আপনার কার্ডগুলি এবার সঠিকভাবে লোড হবে।
 
 
 
