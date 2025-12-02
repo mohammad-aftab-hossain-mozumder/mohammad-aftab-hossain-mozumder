@@ -39,9 +39,6 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
 
 ---
-[![Aftab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-Aftab-Hossain)](https://github.com/MD-Aftab-Hossain/github-readme-stats)
-
-
 
 ## 📊 GitHub Stats
 
