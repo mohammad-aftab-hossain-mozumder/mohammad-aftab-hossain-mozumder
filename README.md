@@ -40,7 +40,7 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-aftab-hossain-mozumder&theme=tokyonight" />
