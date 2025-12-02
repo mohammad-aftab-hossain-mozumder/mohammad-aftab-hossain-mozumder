@@ -1,8 +1,7 @@
-
 ![logo](https://github.com/mohammad-aftab-hossain-mozumder/mohammad-aftab-hossain-mozumder/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Aftab+Hossain;Welcome+to+my+profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Aftab+Hossain;Welcome+to+My+Profile!&center=true&size=30">
   </a>
 </h1>
 <div>
