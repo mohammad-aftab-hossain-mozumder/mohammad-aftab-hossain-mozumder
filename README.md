@@ -4,8 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Aftab+Hossain...;Welcome+to+My+Profile!&center=true&size=30">
   </a>
 </h1>
-<div>
-  <h3>MERN Stack Web Developer 💻 | I love turning complex ideas into simple, functional, and user-friendly web solutions</h3>
+<div align="center">
+  <h2>🚀 MERN Stack Web Developer</h2>
+  <h3>💻 Transforming complex ideas into clean, functional, and user-friendly web experiences</h3>
 </div>
 ---
 
