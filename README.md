@@ -39,7 +39,7 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 ---
 
 ## 📊 GitHub Stats
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-aftab-hossain-mozumder&layout=compact&theme=radical&hide_border=true)](https://github.com/mohammad-aftab-hossain-mozumder)
 <p>
 
 
