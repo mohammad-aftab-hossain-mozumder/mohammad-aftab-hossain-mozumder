@@ -5,7 +5,7 @@
   </a>
 </h1>
 <div>
-  <h1>MERN Stack Web Developer 💻 | Crafting scalable and user-friendly applications</h1>
+  <h3>MERN Stack Web Developer 💻 | Crafting scalable and user-friendly applications</h3>
 </div><br>
 ---
 
