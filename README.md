@@ -5,8 +5,8 @@
   </a>
 </h1>
 <div align="center">
-  <h2>🚀 MERN Stack Web Developer</h2>
-  <h3>💻 Transforming complex ideas into clean, functional, and user-friendly web experiences</h3>
+  <h2>💻 MERN Stack Web Developer</h2>
+  <h3>🚀 Transforming complex ideas into clean, functional, and user-friendly web experiences</h3>
 </div>
 ---
 
