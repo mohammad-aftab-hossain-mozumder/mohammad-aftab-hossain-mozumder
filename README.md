@@ -36,12 +36,6 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
 
----
-
-# 📊 GitHub Stats
-<p>
-  <img src="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/mohammad-aftab-hossain-mozumder/main/assets/streak.svg" alt="GitHub streak" />
-</p>
 
 
 
