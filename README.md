@@ -5,8 +5,8 @@
   </a>
 </h1>
 <div>
-  <h3>MERN Stack Web Developer 💻 | Crafting scalable and user-friendly applications</h3>
-</div><br>
+  <h3>MERN Stack Web Developer 💻 | I love turning complex ideas into simple, functional, and user-friendly web solutions</h3>
+</div>
 ---
 
 ## 👨‍💻 About Me  
