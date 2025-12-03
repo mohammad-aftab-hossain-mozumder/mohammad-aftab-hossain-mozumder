@@ -29,3 +29,10 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 
 
 ---
+
+
+![](https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/languages.svg#gh-light-mode-only)
