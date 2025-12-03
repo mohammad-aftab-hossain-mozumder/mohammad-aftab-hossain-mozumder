@@ -29,12 +29,3 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 
 
 ---
-
-## 🌐 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:aftab.112233@gmail.com)
-
-
-
-
-
-
