@@ -30,6 +30,9 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 
 ---
 
+⭐ 📊 My GitHub Stats
+<table> <tr> <td> <img src="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/overview.svg#gh-dark-mode-only" /> <img src="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/overview.svg#gh-light-mode-only" /> </td> <td> <img src="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/languages.svg#gh-dark-mode-only" /> <img src="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/languages.svg#gh-light-mode-only" /> </td> </tr> </table>
+
 
 ![](https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/overview.svg#gh-light-mode-only)
