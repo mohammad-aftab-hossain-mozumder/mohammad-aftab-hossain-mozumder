@@ -16,8 +16,7 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 
 ---
 
-<h3>The core tools defining my ability to deliver end-to-end excellence</h3>
-
+## ⚡ My Core Stack: Engineered for Complete Development Excellence
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
