@@ -29,8 +29,27 @@ I'm a passionate MERN Stack Web Developer who enjoys building modern, high-perfo
 
 ---
 
-## ⭐ 📊 My GitHub Stats
+## 🔍 GitHub Overview  
+Below is a quick summary of your GitHub activity.
 
-<div > <!-- Overview (Dark / Light) --> <picture style="width:full;"> <source srcset="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)"> <img src="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/overview.svg#gh-light-mode-only" width="420"> </picture> <!-- Languages (Dark / Light) --> <picture style="width:full;"> <source srcset="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)"> <img src="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/languages.svg#gh-light-mode-only" width="420"> </picture> </div>
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/overview.svg#gh-light-mode-only" width="450">
+  </picture>
+</p>
+
+---
+
+## 🧩 Languages Breakdown  
+This section shows which programming languages you use the most.
+
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/mohammad-aftab-hossain-mozumder/aftab-github-stats/master/generated/languages.svg#gh-light-mode-only" width="450">
+  </picture>
+</p>
+
 
 
