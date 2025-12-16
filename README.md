@@ -40,16 +40,17 @@ Feel free to reach out if you want to talk about **web development**, **open-sou
     </td>
   </tr>
 
-  <tr>
-    <td><b>Frontend Technologies</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5"/>
-      <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss"/>
-      <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"/>
-      <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js"/>
-    </td>
-  </tr>
+  <tr> 
+  <td><b>Frontend Technologies</b></td> 
+  <td> 
+    <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5"/> 
+    <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3"/> 
+    <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap"/> 
+    <img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss"/> 
+    <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"/> 
+    <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js"/> 
+  </td> 
+</tr>
 
   <tr>
     <td><b>Back-End Development</b></td>
